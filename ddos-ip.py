@@ -9,7 +9,7 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("figlet DDos Attack")
+os.system("figlet DDos-IP")
 print
 print "Author   : Phacker {Different Cyber}"
 print "You Tube : https://www.youtube.com/c/Grim Hacker 555"
