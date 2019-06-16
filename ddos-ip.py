@@ -12,7 +12,7 @@ os.system("clear")
 os.system("figlet DDos-IP")
 print
 print "Author   : Phacker {Different Cyber}"
-print "You Tube : https://www.youtube.com/c/Grim Hacker 555"
+print "You Tube : Grim.Hacker.555"
 print "github   : https://github.com/Grim Hacker 555"
 print "Facebook : https://www.facebook.com/phacker"
 print
