@@ -15,7 +15,6 @@ print "Author   : Phacker {Different Cyber}"
 print "You Tube : Grim.Hacker.555"
 print "github   : https://github.com/Grim Hacker 555"
 print "Facebook : https://www.facebook.com/phacker"
-print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
 sent = 0
